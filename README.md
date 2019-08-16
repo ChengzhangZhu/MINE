@@ -1,7 +1,7 @@
 # MINE
 This code is a Keras implementation (only for tensorflow backend) of MINE: Mutual Information Neural Estimation (https://arxiv.org/pdf/1801.04062.pdf)
 
-Thanks *mzgubic* for providing the [Tensorflow implementation](https://github.com/mzgubic/MINE/blob/master/MINE_in_TF.ipynb)
+Thank *mzgubic* for providing the [Tensorflow implementation](https://github.com/mzgubic/MINE/blob/master/MINE_in_TF.ipynb)
 
 ## How to use
 
